@@ -1,0 +1,37 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MicroAuth 0.1\n"
+"POT-Creation-Date: 2014-01-15 23:48+0100\n"
+"PO-Revision-Date: 2014-01-15 23:49+0100\n"
+"Last-Translator: Pierre Aboucaya <pierre@13i.fr>\n"
+"Language-Team: asper <p@asper.fr>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: Controller/MicroAuthController.php:20
+msgid "Invalid password"
+msgstr "Mot de passe non valide"
+
+#: Controller/Component/MicroAuthComponent.php:21
+msgid "You need to login to access this page"
+msgstr "Vous devez vous identifier pour accéder à cette page"
+
+#: View/MicroAuth/login.ctp:4
+msgid "Restricted area"
+msgstr "Zone restreinte"
+
+#: View/MicroAuth/login.ctp:8
+msgid "Password"
+msgstr "Mot de passe"
+
+#: View/MicroAuth/login.ctp:15
+msgid "Login"
+msgstr "Connexion"
