@@ -1,0 +1,7 @@
+{
+    "name": "asper/micro-auth",
+    "type": "cakephp-plugin",
+    "description" : "This CakePHP plugin helps to restrict admin prefixed urls with a single password authentication.",
+    "license": "MIT",
+    "keywords": ["cakephp","auth"]
+}
